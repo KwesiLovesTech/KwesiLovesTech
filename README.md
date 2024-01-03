@@ -14,8 +14,9 @@
 - ⚡ Fun fact: I am a professional photograher 
 -->
 
-- 🔭 I’m currently working as an AWS solutions architect
-- 🌱 I’m currently learning devops
-- 💬 Ask me about a well architected framework in AWS
+- 🧳 I am an AWS solutions architect
+- 🧑‍🎓 I’m currently learning devops
+- 💬 Ask me about a well-architected framework in AWS
+- 🧠 My projects are available here https://github.com/KwesiLovesTech?tab=repositories
 - 📫 How to reach me: kwesilovetech@outlook.com
 - ⚡ Fun fact: I am a professional photograher 
