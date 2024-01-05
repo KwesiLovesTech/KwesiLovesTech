@@ -19,4 +19,4 @@
 - 💬 Ask me about a well-architected framework in AWS
 - 🧠 My projects are available here https://github.com/KwesiLovesTech?tab=repositories
 - 📫 How to reach me: kwesilovetech@outlook.com
-- ⚡ Fun fact: I am a professional photograher 
+- ⚡ Fun fact: I am also a professional photograher 
