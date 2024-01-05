@@ -16,7 +16,8 @@
 
 - 🧳 I am an AWS solutions architect
 - 🧑‍🎓 I’m currently learning devops
-- 💬 Ask me about a well-architected framework in AWS
+- 💬 Ask me about AWS well-architected framework 
 - 🧠 My projects are available here https://github.com/KwesiLovesTech?tab=repositories
+- 👨🏿‍💻 My blog on various solutions can be found here https://kwesilovestech.github.io/
 - 📫 How to reach me: kwesilovetech@outlook.com
 - ⚡ Fun fact: I am also a professional photograher 
