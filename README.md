@@ -23,7 +23,7 @@ containers. Also into DevOps tools, Python, and Terraform.
 
 - 🧳 I’m currently working on ... enhancing cloud architectures using AWS
    and exploring the latest technologies.
-- 🧑‍🎓 I’m currently learning ... deepening my understanding of  cloud solution architectures, DevOps and Jenkins
+- 🧑‍🎓 I’m currently learning topics about... deepening my understanding of  cloud solution architectures, DevOps and Jenkins
 - 🧠 My projects are available here https://github.com/KwesiLovesTech?tab=repositories
 - 👨🏿‍💻 My blog on various solutions can be found here https://kwesilovestech.github.io/
 - 📫 How to reach me: kwesilovetech@outlook.com
