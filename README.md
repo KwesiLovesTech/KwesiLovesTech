@@ -4,7 +4,7 @@ I love making cloud tech simple and sharing knowledge.Currently
 
 diving into AWS, focusing on cloud architecture,serverless, and
 
-containers. Also into DevOps, Python, and Terraform.
+containers. Also into DevOps tools, Python, and Terraform.
 
 
 <!--
