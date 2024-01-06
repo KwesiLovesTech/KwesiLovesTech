@@ -1,4 +1,11 @@
-### Hi there 👋
+#### 👋 Hi, I'm Kwesi, an AWS Solution Architect. 
+
+I love making cloud tech simple and sharing knowledge.Currently 
+
+diving into AWS, focusing on cloud architecture,serverless, and
+
+containers. Also into DevOps, Python, and Terraform.
+
 
 <!--
 **KwesiLovesTech/KwesiLovesTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,9 +21,9 @@
 - ⚡ Fun fact: I am a professional photograher 
 -->
 
-- 🧳 I am an AWS solutions architect
-- 🧑‍🎓 I’m currently learning devops
-- 💬 Ask me about AWS well-architected framework 
+- 🧳 I’m currently working on ... enhancing cloud architectures using AWS
+   and exploring the latest technologies.
+- 🧑‍🎓 I’m currently learning ... deepening my understanding of  cloud solution architectures, DevOps and Jenkins
 - 🧠 My projects are available here https://github.com/KwesiLovesTech?tab=repositories
 - 👨🏿‍💻 My blog on various solutions can be found here https://kwesilovestech.github.io/
 - 📫 How to reach me: kwesilovetech@outlook.com
