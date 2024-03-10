@@ -1,4 +1,4 @@
-#### 👋 Hi, I'm Kwesi, an AWS Solution Architect. 
+#### 👋 Hi, I'm Kwesi, an AWS Cloud Engineer / Solution Architect. 
 
 I love making cloud tech simple and sharing knowledge.Currently 
 
