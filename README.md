@@ -1,10 +1,10 @@
 #### 👋 Hi, I'm Kwesi, an AWS Cloud Engineer / Solution Architect. 
 
-I love making cloud tech simple and sharing knowledge.Currently 
+I love making cloud tech simple and sharing knowledge. Currently 
 
-diving into AWS, focusing on cloud architecture,serverless, and
+diving into AWS solutions, focusing on cloud architecture, serverless, and
 
-containers. Also into DevOps tools, Python, and Terraform.
+containers. Also into DevOps tools, Automation, and Terraform.
 
 
 <!--
@@ -13,7 +13,7 @@ containers. Also into DevOps tools, Python, and Terraform.
 
 
 - 🔭 I’m currently working on AWS
-- 🌱 I’m currently learning for associate certifications in aws
+- 🌱 I’m currently learning for kubernetes certification 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
