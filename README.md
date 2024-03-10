@@ -4,7 +4,7 @@ I love making cloud tech simple and sharing knowledge. Currently
 
 diving into AWS solutions, focusing on cloud architecture, serverless, and
 
-containers. Also into DevOps tools, Automation, and Terraform.
+containers. Also into DevOps tools, Automation, and Cloud Security.
 
 
 <!--
@@ -12,8 +12,8 @@ containers. Also into DevOps tools, Automation, and Terraform.
 
 
 
-- 🔭 I’m currently working on AWS
-- 🌱 I’m currently learning for kubernetes certification 
+- 🔭 I’m currently working on AWS platform
+- 🌱 I’m currently learning for cloud security certifications 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
