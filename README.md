@@ -1,10 +1,10 @@
-#### 👋 Hi, I'm Kwesi, an AWS Cloud Engineer / Solution Architect. 
+#### 👋 Hi, I'm Kwesi, an AWS Cloud Engineer / DevOps Engineer. 
 
 I love making cloud tech simple and sharing knowledge. Currently 
 
-diving into AWS solutions, focusing on cloud architecture, serverless, and
+diving into AWS solutions, focusing on cloud architecture.
 
-containers. Also into DevOps tools, Automation, and Cloud Security.
+Also into DevOps tools, Automation, and Cloud Security.
 
 
 <!--
@@ -23,7 +23,7 @@ containers. Also into DevOps tools, Automation, and Cloud Security.
 
 - 🧳 I’m currently working on ... enhancing cloud architectures using AWS
    and exploring the latest technologies.
-- 🧑‍🎓 I’m currently learning topics about... deepening my understanding of  cloud solution architectures, DevOps and Jenkins
+- 🧑‍🎓 I’m currently learning topics about... deepening my understanding of  cloud solution architectures, DevOps and CI/CD.
 - 🧠 My projects are available here https://github.com/KwesiLovesTech?tab=repositories
 - 👨🏿‍💻 My blog on various solutions can be found here https://kwesilovestech.github.io/
 - 📫 How to reach me: kwesilovetech@outlook.com
