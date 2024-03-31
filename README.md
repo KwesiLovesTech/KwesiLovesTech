@@ -1,4 +1,4 @@
-#### 👋 Hi, I'm Kwesi, an AWS Cloud Engineer / DevOps Engineer. 
+#### 👋 Hi, I'm Kwesi, an AWS Cloud Engineer and DevOps Engineer 💻. 
 
 I love making cloud tech simple and sharing knowledge. Currently 
 
