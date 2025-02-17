@@ -1,10 +1,9 @@
-#### 👋 Hi, I'm Kwesi, a DevSecOps Engineer 💻. 
+#### 👋 Hi, I'm Kwesi, I talk about  DevSecOps and CyberSecurity 💻. 
 
-I enjoy simplifying cloud technology and security while sharing my knowledge with others.
+I enjoy simplifying cloud technology and security. And enjoy sharing my knowledge with others.
 
 Currently diving into AWS solutions, focusing on cloud security.
 
-Also into DevOps tools, Automation,Pentesting  and Cloud Security.
 
 
 <!--
