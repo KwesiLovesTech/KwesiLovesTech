@@ -22,7 +22,7 @@ Currently diving into AWS solutions, focusing on cloud security.
 
 - 🧳 I’m currently working on ... enhancing cloud architectures using AWS
    and exploring the latest technologies.
-- 🧑‍🎓 I’m currently learning topics about... cloud solution architectures, DevOps, and CI/CD.
+- 🧑‍🎓 I add projects to my Repository as part of my journey and  may also be helpful to others.
 - 🧠 My projects are available here https://github.com/KwesiLovesTech?tab=repositories
 - 👨🏿‍💻 My blog on various solutions can be found here https://kwesilovestech.github.io/
 - 📫 How to reach me: kwesilovetech@outlook.com
