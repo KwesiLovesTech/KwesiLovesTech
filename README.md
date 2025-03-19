@@ -1,6 +1,6 @@
-#### 👋 Hi, I'm Kwesi, I talk about  DevSecOps and CyberSecurity 💻. 
+#### 👋 Hi, I'm Kwesi, I talk about  Cloud Security & Cybersecurity 💻. 
 
-I enjoy simplifying cloud technology and security. And enjoy sharing my knowledge with others.
+I enjoy simplifying cloud technology and sharing my knowledge with others.
 
 Currently diving into AWS solutions, focusing on cloud security.
 
