@@ -35,7 +35,7 @@ I'm focused on becoming a **Cloud Security Officer**, combining deep technical e
 - **Container Security** – Image scanning, Kubernetes RBAC, runtime protection  
 - **Automated Compliance Checks** – Monitoring aligned with NIST, CIS Benchmarks, MITRE ATT&CK  
 
-### 3. Governance, Risk & Compliance (GRC)
+### 3. [Governance, Risk & Compliance (GRC)](https://github.com/KwesiLovesTech/Governance-Risk-Compliance.git)
 - **Policy & Control Frameworks** – Security policy mapping to compliance standards  
 - **Third-Party Risk Assessments** – VRQs and security evaluation of cloud vendors  
 - **Compliance Gap Analysis** – Simulated audits for NIST, ISO 27001, SOC 2  
