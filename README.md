@@ -14,10 +14,10 @@ I'm a Cloud Security and Cybersecurity enthusiast actively learning, applying, a
 - Automating compliance using native and open-source tools
 - Aligning infrastructure with industry standards like **NIST 800-53**, **SOC 2**, and **ISO 27001**
 
-My mission is to bridge the gap between **technical controls** and **business risk**.
+I aim to bridge the gap between **technical controls** and **business risk**.
 
 I bring this to life through real-world projects shared here on GitHub.  
-I'm on a focused path toward becoming a **Cloud Security Officer**, combining deep technical expertise with governance and risk strategy.
+I'm focused on becoming a **Cloud Security Officer**, combining deep technical expertise with governance and risk strategy.
 
 ---
 
@@ -29,7 +29,7 @@ I'm on a focused path toward becoming a **Cloud Security Officer**, combining de
 - **IAM Hardening** – Least-privilege policy design, SSO, conditional access  
 - **Compliance Monitoring** – AWS Config Rules, Security Hub, CloudTrail integration  
 
-### 2. DevSecOps Automation
+### 2. [DevSecOps Automation](https://github.com/KwesiLovesTech/DevSecOps.git)
 - **CI/CD Security Integration** – Pipelines with SAST, secrets scanning, dependency checks  
 - **Infrastructure Security as Code** – Terraform enforcing encryption, backup, logging  
 - **Container Security** – Image scanning, Kubernetes RBAC, runtime protection  
