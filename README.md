@@ -23,19 +23,19 @@ I'm on a focused path toward becoming a **Cloud Security Officer**, combining de
 
 ## 📂 Project Categories
 
-### 🔐 1. Cloud Security Engineering
+### 1. Cloud Security Engineering
 - **AWS Secure Architecture Design** – Infrastructure as Code (Terraform) with embedded security controls  
 - **Centralized Threat Detection** – GuardDuty, Security Hub, and Macie deployments  
 - **IAM Hardening** – Least-privilege policy design, SSO, conditional access  
 - **Compliance Monitoring** – AWS Config Rules, Security Hub, CloudTrail integration  
 
-### ⚙️ 2. DevSecOps Automation
+### 2. DevSecOps Automation
 - **CI/CD Security Integration** – Pipelines with SAST, secrets scanning, dependency checks  
 - **Infrastructure Security as Code** – Terraform enforcing encryption, backup, logging  
 - **Container Security** – Image scanning, Kubernetes RBAC, runtime protection  
 - **Automated Compliance Checks** – Monitoring aligned with NIST, CIS Benchmarks, MITRE ATT&CK  
 
-### 🛡️ 3. Governance, Risk & Compliance (GRC)
+### 3. Governance, Risk & Compliance (GRC)
 - **Policy & Control Frameworks** – Security policy mapping to compliance standards  
 - **Third-Party Risk Assessments** – VRQs and security evaluation of cloud vendors  
 - **Compliance Gap Analysis** – Simulated audits for NIST, ISO 27001, SOC 2  
