@@ -23,7 +23,7 @@ I'm on a focused path toward becoming a **Cloud Security Officer**, combining de
 
 ## 📂 Project Categories
 
-### 1. Cloud Engineering & Security
+### 1. [Cloud Engineering & Security](https://github.com/KwesiLovesTech/Cloud-Engineering-and-Security.git)
 - **AWS Secure Architecture Design** – Infrastructure as Code (Terraform) with embedded security controls  
 - **Centralized Threat Detection** – GuardDuty, Security Hub, and Macie deployments  
 - **IAM Hardening** – Least-privilege policy design, SSO, conditional access  
