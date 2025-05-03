@@ -2,7 +2,7 @@
 
 ---
 
-Welcome to my GitHub portfolio, where I showcase hands-on projects in **Cloud Security**, **DevSecOps Automation**, and **Governance, Risk, and Compliance (GRC)**.
+Welcome to my GitHub portfolio, where I showcase hands-on projects in **Cloud Security**, **Governance, Risk, and Compliance (GRC)**.
 
 ---
 
@@ -14,9 +14,8 @@ I'm a Cloud Security and Cybersecurity enthusiast actively learning, applying, a
 - Automating compliance using native and open-source tools
 - Aligning infrastructure with industry standards like **NIST 800-53**, **SOC 2**, and **ISO 27001**
 
-I aim to bridge the gap between **technical controls** and **business risk**.
+I am dedicated to bridging the gap between **technical controls** and **business risk**.  I showcase my expertise through impactful real-world projects, all available on GitHub for your review.
 
-I bring this to life through real-world projects shared here on GitHub.  
 I'm focused on becoming a **Cloud Security Officer**, combining deep technical expertise with governance and risk strategy.
 
 ---
@@ -25,17 +24,13 @@ I'm focused on becoming a **Cloud Security Officer**, combining deep technical e
 
 ### 1. [Cloud Engineering & Security](https://github.com/KwesiLovesTech/Cloud-Engineering-and-Security.git)
 - **AWS Secure Architecture Design** – Infrastructure as Code (Terraform) with embedded security controls  
-- **Centralized Threat Detection** – GuardDuty, Security Hub, and Macie deployments  
+- **Centralized Threat Detection and Compliance Monitoring** – AWS Config Rules, GuardDuty, Security Hub, CloudTrail integration and Macie deployments  
 - **IAM Hardening** – Least-privilege policy design, SSO, conditional access  
-- **Compliance Monitoring** – AWS Config Rules, Security Hub, CloudTrail integration  
-
-### 2. [DevSecOps Automation](https://github.com/KwesiLovesTech/DevSecOps.git)
 - **CI/CD Security Integration** – Pipelines with SAST, secrets scanning, dependency checks  
 - **Infrastructure Security as Code** – Terraform enforcing encryption, backup, logging  
-- **Container Security** – Image scanning, Kubernetes RBAC, runtime protection  
 - **Automated Compliance Checks** – Monitoring aligned with NIST, CIS Benchmarks, MITRE ATT&CK  
 
-### 3. [Governance, Risk & Compliance (GRC)](https://github.com/KwesiLovesTech/Governance-Risk-Compliance.git)
+### 2. [Governance, Risk & Compliance (GRC)](https://github.com/KwesiLovesTech/Governance-Risk-Compliance.git)
 - **Policy & Control Frameworks** – Security policy mapping to compliance standards  
 - **Third-Party Risk Assessments** – VRQs and security evaluation of cloud vendors  
 - **Compliance Gap Analysis** – Simulated audits for NIST, ISO 27001, SOC 2  
