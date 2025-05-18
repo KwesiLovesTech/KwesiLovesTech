@@ -8,7 +8,7 @@ Welcome to my GitHub portfolio, where I showcase hands-on projects in **Cloud Se
 
 ## 👨‍💻 About Me
 
-I'm a Cloud Security and Cybersecurity enthusiast actively learning, applying, and building in the **Cloud** and **GRC** domains. I focus on:
+I'm a Cloud Security and Cybersecurity enthusiast actively learning, applying, and building in the **Cloud** and **Cybersecurity** domains. I focus on:
 
 - Securing cloud environments (primarily AWS)
 - Automating compliance using native and open-source tools
