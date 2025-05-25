@@ -100,7 +100,6 @@ This repository maps core Governance, Risk, and Compliance (GRC) domains to nati
 
 - Incident Management – Lambda, EventBridge, Detective
 
-➡️ View full mapping in the [docs folder]()
 
  I use this as a reference for audits, architecture reviews, and compliance automation
 
@@ -111,8 +110,8 @@ This repository maps core Governance, Risk, and Compliance (GRC) domains to nati
 
 | Project                        | Description                                                        | Key Skills                            |
 |-------------------------------|--------------------------------------------------------------------|----------------------------------------|
-| **Devops**   | This repository showcases a collection of hands-on projects where I’ve automated, optimized, and secured cloud-native environments using DevOps best practices.        | Cloud Security, Compliance Automation |
-| **Secure DevOps Pipelines**   | CI/CD pipelines with GitHub Actions, SAST, and secrets scanning    | DevSecOps, SAST, Secrets Management   |
+| [**WordPress Server Deployment (Local)**](https://github.com/KwesiLovesTech/WordPress-Server-using-LAMP-stack-UbuntuLinux)   | Installed and configured a WordPress server locally using LAMP stack. Focused on service optimization, permission hardening, and manual patching workflows.        | Linux Admin, Web Server Setup, DevOps|
+| [**Multi-Tier-Web-Application-Stack-Setup-Locally**](https://github.com/KwesiLovesTech/Vprofile-Project-Multi-Tier-Web-Application-Stack-Setup-Locally)  | Deployed a 3-tier architecture (frontend, backend, database) on a local VM or host.   | DevSecOps, CICD   |
 
 
 ---
@@ -124,7 +123,7 @@ This repository maps core Governance, Risk, and Compliance (GRC) domains to nati
 - **DevOps Tools:** Terraform, GitHub Actions, Jenkins, Docker, Kubernetes  
 - **Compliance Frameworks:** NIST 800-53, ISO 27001, SOC 2, GDPR  
 - **Scripting:** Python (automation), Bash (scripting)  
-- **GRC Tools:** ServiceNow GRC (simulated), Power BI  
+
 
 ---
 
