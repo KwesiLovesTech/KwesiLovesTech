@@ -1,42 +1,80 @@
-###  Hi there 👋 , My name is Kwesi Ifeogwu. 
-
----
-
-Welcome to my GitHub portfolio, where I showcase hands-on projects in **Cloud Security**, **Cybersecurity / GRC**.
+###  Hi there 👋 , I'm Kwesi Ifeogwu - Cloud Security & GRC Enthusiast. 
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a Cloud Security and Cybersecurity enthusiast actively learning, applying, and building in the **Cloud** and **Cybersecurity** domains. I focus on:
+I'm a Cloud Security and Cybersecurity professional with a strong focus on **Cloud security**, **DevSecOps**, and **Governance, Risk & Compliance (GRC)**. 
+I enjoy designing secure cloud architectures, automating compliance, and bridging the gap between **security practices** and **business risk**.
 
-- Securing cloud environments (primarily AWS)
-- Automating compliance using native and open-source tools
-- Aligning infrastructure with industry standards like **NIST 800-53**, **SOC 2**, and **ISO 27001**
+This GitHub is my **personal lab** and showcases :
 
-I am dedicated to bridging the gap between **technical controls** and **business risk**.  I showcase my expertise through impactful real-world projects, all available on GitHub for your review.
+- Real-world **AWS security projects** organized by security domain  and 
+- A reference **GRC framework** mapped to **AWS native services**
 
-I'm focused on becoming a **Cloud Security Officer**, combining deep technical expertise with governance and risk strategy.
+---
 
 ---
 
 ## 📂 Project Categories
 
-### 1. [Cloud Engineering & Security](https://github.com/KwesiLovesTech/Cloud-Engineering-and-Security.git)
-- **AWS Secure Architecture Design** – Infrastructure as Code (Terraform) with embedded security controls  
-- **Centralized Threat Detection and Compliance Monitoring** – AWS Config Rules, GuardDuty, Security Hub, CloudTrail integration and Macie deployments  
-- **IAM Hardening** – Least-privilege policy design, SSO, conditional access  
-- **CI/CD Security Integration** – Pipelines with SAST, secrets scanning, dependency checks  
-- **Infrastructure Security as Code** – Terraform enforcing encryption, backup, logging  
-- **Automated Compliance Checks** – Monitoring aligned with NIST, CIS Benchmarks, MITRE ATT&CK  
+### 1. [Cloud Security Projects by Domain (AWS)](https://github.com/KwesiLovesTech/Governance-Risk-Compliance.git)
 
-### 2. [Cybersecurity / Governance, Risk & Compliance (GRC)](https://github.com/KwesiLovesTech/Governance-Risk-Compliance.git)
-- **Policy & Control Frameworks** – Security policy mapping to compliance standards  
-- **Third-Party Risk Assessments** – VRQs and security evaluation of cloud vendors  
-- **Compliance Gap Analysis** – Simulated audits for NIST, ISO 27001, SOC 2  
-- **Risk Reporting** – Dashboards for risk posture and compliance metrics (Power BI, ServiceNow)
+### 🔐  **Network Security**
+- [VPC Segmentation with Security Groups and NACLs](https://github.com/yourusername/vpc-network-segmentation)
+- [Web App Protection with AWS WAF and Shield](https://github.com/yourusername/aws-waf-shield-protection)
+- [VPC Flow Logs + Athena + QuickSight](https://github.com/yourusername/vpc-traffic-monitoring)
+
+### 🧪  **Application Security**
+- [Secure CI/CD Pipeline with SonarQube](https://github.com/yourusername/secure-cicd-pipeline)
+- [Secrets Management with AWS Secrets Manager](https://github.com/yourusername/secrets-manager-demo)
+- [API Gateway with Lambda JWT Authorizer](https://github.com/yourusername/api-gateway-jwt-auth)
+
+### ☁️ **Cloud Security**
+- [AWS Secure Architecture Design with Terraform](https://github.com/yourusername/multi-account-guardduty)
+- [Prowler Security Assessment & Remediation](https://github.com/yourusername/aws-prowler-hardening)
+- [Auto-Remediate Public S3 Buckets](https://github.com/yourusername/s3-public-access-remediation)
+
+### 📊  **Security Operations**
+- [Centralized Logging with CloudTrail & OpenSearch](https://github.com/yourusername/cloudtrail-opensearch-logging)
+- [Automated Incident Response with EventBridge](https://github.com/yourusername/aws-incident-response)
+- [Security Hub Alerts + Amazon Detective Workflow](https://github.com/yourusername/security-hub-detective)
+
+### 🔑  **Identity & Access Management (IAM)**
+- [IAM Policy Least Privilege Analyzer](https://github.com/yourusername/iam-least-privilege-analyzer)
+- [SSO Integration with IAM Identity Center](https://github.com/yourusername/aws-sso-idp-integration)
+- [Cross-Account Role Access with STS](https://github.com/yourusername/sts-role-assumption)
+
+### 📏 **Security Governance**
+- [Compliance Auditing with AWS Config Rules](https://github.com/yourusername/aws-config-compliance)
+- [Infrastructure Security as Code with Terraform (Encryption, Backups, Logging)](https://github.com/yourusername/cloudformation-guard-policies)
+- [NIST 800-53 Mapping to AWS Resources](https://github.com/yourusername/nist-aws-mapping)
+
+
+
+### 2. [GRC Domains Mapped to AWS Native Services](https://github.com/KwesiLovesTech/Governance-Risk-Compliance.git)
+
+This repository maps core Governance, Risk, and Compliance (GRC) domains to native AWS services. It's designed to help anyone understand how to implement cloud-native GRC best practices using AWS tools.
+
+#### Domains Covered:
+- Governance – Organizations, Control Tower, IAM Policies
+
+- Risk Management – GuardDuty, Inspector, Security Hub
+
+- Compliance – AWS Config, Audit Manager, Macie
+
+- Policy Management – SCPs, IAM Access Analyzer, Config Rules
+
+- Audit & Controls – CloudTrail, Conformance Packs
+
+- Incident Management – Lambda, EventBridge, Detective
+
+➡️ View full mapping in the [docs folder]()
+
+ I use this as a reference for audits, architecture reviews, and compliance automation
 
 ---
+
 
 ## 🚀 Featured Projects
 
@@ -44,8 +82,7 @@ I'm focused on becoming a **Cloud Security Officer**, combining deep technical e
 |-------------------------------|--------------------------------------------------------------------|----------------------------------------|
 | **AWS Security Automation**   | Automated compliance with AWS Config, Lambda, and Terraform        | Cloud Security, Compliance Automation |
 | **Secure DevOps Pipelines**   | CI/CD pipelines with GitHub Actions, SAST, and secrets scanning    | DevSecOps, SAST, Secrets Management   |
-| **Third-Party Risk Simulation** | Risk analysis of major cloud vendors using custom VRQs             | GRC, Vendor Management, Risk Scoring  |
-| **Compliance Dashboard**      | Power BI dashboard for real-time compliance and risk visibility    | GRC Reporting, Metrics, Visualization |
+
 
 ---
 
