@@ -1,4 +1,4 @@
-###  Hi there 👋 , I'm Kwesi Ifeogwu - Cloud Security & GRC Enthusiast. 
+###  Hi there 👋 , I'm Kwesi Ifeogwu - Cloud Security & Cybersecurity Enthusiast. 
 
 ---
 
@@ -20,35 +20,35 @@ This GitHub is my **personal lab** and showcases :
 
 ### 1. [Cloud Security Projects by Domain (AWS)](https://github.com/KwesiLovesTech/Governance-Risk-Compliance.git)
 
-### 🔐  **Network Security**
-- [VPC Segmentation with Security Groups and NACLs](https://github.com/yourusername/vpc-network-segmentation)
-- [Web App Protection with AWS WAF and Shield](https://github.com/yourusername/aws-waf-shield-protection)
-- [VPC Flow Logs + Athena + QuickSight](https://github.com/yourusername/vpc-traffic-monitoring)
+### [🔐  **Network Security**]()
+- VPC Segmentation with Security Groups and NACLs
+- Web App Protection with AWS WAF and Shield
+- VPC Flow Logs + Athena + QuickSight
 
-### 🧪  **Application Security**
-- [Secure CI/CD Pipeline with SonarQube](https://github.com/yourusername/secure-cicd-pipeline)
-- [Secrets Management with AWS Secrets Manager](https://github.com/yourusername/secrets-manager-demo)
-- [API Gateway with Lambda JWT Authorizer](https://github.com/yourusername/api-gateway-jwt-auth)
+### [🧪  **Application Security**]()
+- Secure CI/CD Pipeline with SonarQube
+- Secrets Management with AWS Secrets Manager
+- API Gateway with Lambda JWT Authorizer
 
-### ☁️ **Cloud Security**
-- [AWS Secure Architecture Design with Terraform](https://github.com/yourusername/multi-account-guardduty)
-- [Prowler Security Assessment & Remediation](https://github.com/yourusername/aws-prowler-hardening)
-- [Auto-Remediate Public S3 Buckets](https://github.com/yourusername/s3-public-access-remediation)
+### [☁️ **Cloud Security**]()
+- AWS Secure Architecture Design with Terraform
+- Prowler Security Assessment & Remediation
+- Auto-Remediate Public S3 Buckets
 
-### 📊  **Security Operations**
-- [Centralized Logging with CloudTrail & OpenSearch](https://github.com/yourusername/cloudtrail-opensearch-logging)
-- [Automated Incident Response with EventBridge](https://github.com/yourusername/aws-incident-response)
-- [Security Hub Alerts + Amazon Detective Workflow](https://github.com/yourusername/security-hub-detective)
+### [📊  **Security Operations**]()
+- Centralized Logging with CloudTrail & OpenSearch
+- Automated Incident Response with EventBridge
+- Security Hub Alerts + Amazon Detective Workflow
 
-### 🔑  **Identity & Access Management (IAM)**
-- [IAM Policy Least Privilege Analyzer](https://github.com/yourusername/iam-least-privilege-analyzer)
-- [SSO Integration with IAM Identity Center](https://github.com/yourusername/aws-sso-idp-integration)
-- [Cross-Account Role Access with STS](https://github.com/yourusername/sts-role-assumption)
+### [🔑  **Identity & Access Management (IAM)**]()
+- IAM Policy Least Privilege Analyzer
+- SSO Integration with IAM Identity Center
+- Cross-Account Role Access with STS
 
-### 📏 **Security Governance**
-- [Compliance Auditing with AWS Config Rules](https://github.com/yourusername/aws-config-compliance)
-- [Infrastructure Security as Code with Terraform (Encryption, Backups, Logging)](https://github.com/yourusername/cloudformation-guard-policies)
-- [NIST 800-53 Mapping to AWS Resources](https://github.com/yourusername/nist-aws-mapping)
+### [📏 **Security Governance**]()
+- Compliance Auditing with AWS Config Rules
+- Infrastructure Security as Code with Terraform (Encryption, Backups, Logging)
+- NIST 800-53 Mapping to AWS Resources
 
 
 
