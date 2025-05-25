@@ -48,7 +48,7 @@ This GitHub is my **personal lab** and showcases :
 
 ### [2. Devops  &  DevSecOps]()
 
-#### [🔧  **CI/CD Pipeline with Jenkins & Ansible**]()
+#### [🔧  **CI/CD Pipeline with Jenkins & Ansible**](https://github.com/KwesiLovesTech/jenkins-cicd-pipeline)
 - Fully automated Jenkins pipeline for a Java web app  
 - Stages: Build → Test → Quality Gate → Artifact Push → Deploy  
 - Tools: Jenkins, Nexus, SonarQube, EC2, GitHub
@@ -75,7 +75,7 @@ This GitHub is my **personal lab** and showcases :
 - Stops the build on policy violations
 
 
-#### [ **Monitoring & Alerting with Prometheus + Grafana**](https://github.com/KwesiLovesTech/kwesilovestech.com-static-website-deploy?tab=readme-ov-file)
+#### [ **Monitoring & Alerting with Prometheus + Grafana**](https://github.com/KwesiLovesTech/jenkins-cicd-pipeline)
 - Real-time monitoring for EC2 and containers  
 - Alerting rules for CPU, memory, disk usage  
 - Infrastructure deployed using Ansible
