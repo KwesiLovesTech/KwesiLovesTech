@@ -18,44 +18,75 @@ This GitHub is my **personal lab** and showcases :
 
 ## 📂 Project Categories
 
-### 1. [Cloud Security Projects by Domain (AWS)](https://github.com/KwesiLovesTech/Governance-Risk-Compliance.git)
+### [1. Cloud Security Projects by Domain (AWS)](https://github.com/KwesiLovesTech/Governance-Risk-Compliance.git)
 
-### [🔐  **Network Security**]()
+#### [🔐  **Network Security**]()
 - VPC Segmentation with Security Groups and NACLs
 - Web App Protection with AWS WAF and Shield
 - VPC Flow Logs + Athena + QuickSight
 
-### [🧪  **Application Security**]()
+#### [🧪  **Application Security**]()
 - Secure CI/CD Pipeline with SonarQube
 - Secrets Management with AWS Secrets Manager
 - API Gateway with Lambda JWT Authorizer
 
-### [☁️ **Cloud Security**]()
+#### [☁️ **Cloud Security**]()
 - AWS Secure Architecture Design with Terraform
 - Prowler Security Assessment & Remediation
 - Auto-Remediate Public S3 Buckets
 
-### [📊  **Security Operations**]()
+#### [📊  **Security Operations**]()
 - Centralized Logging with CloudTrail & OpenSearch
 - Automated Incident Response with EventBridge
 - Security Hub Alerts + Amazon Detective Workflow
 
-### [🔑  **Identity & Access Management (IAM)**]()
+#### [🔑  **Identity & Access Management (IAM)**]()
 - IAM Policy Least Privilege Analyzer
 - SSO Integration with IAM Identity Center
 - Cross-Account Role Access with STS
 
-### [📏 **Security Governance**]()
-- Compliance Auditing with AWS Config Rules
-- Infrastructure Security as Code with Terraform (Encryption, Backups, Logging)
-- NIST 800-53 Mapping to AWS Resources
+
+### [2. Devops  &  DevSecOps]()
+
+#### [🔧  **CI/CD Pipeline with Jenkins & Ansible**]()
+- Fully automated Jenkins pipeline for a Java web app  
+- Stages: Build → Test → Quality Gate → Artifact Push → Deploy  
+- Tools: Jenkins, Nexus, SonarQube, EC2, GitHub
+
+
+#### [🛠️  **Terraform Infrastructure with Embedded Security**]()
+- Deploy VPC, EC2, RDS with security controls baked in  
+- Enforce encryption, logging, backups via Terraform modules  
+- Tags and IAM policies integrated for audit readiness
+
+#### [📦 **CI/CD for Static Website on S3 using AWS CodePipeline**](https://github.com/KwesiLovesTech/kwesilovestech.com-static-website-deploy?tab=readme-ov-file)
+- **Frontend**: Static website hosted on Amazon S3 with CloudFront (optional)
+- **CI/CD**: AWS CodePipeline + CodeBuild + GitHub for deployment automation
+- **Visitor Counter Backend**:
+  - **API Gateway** (REST)
+  - **Lambda** (Lambda function)
+  - **DynamoDB** (stores and updates visit counts)
+
+#### [🚧 **DevSecOps Pipeline: Secure Software Supply Chain**]()
+- Jenkins pipeline with:
+  - ✅ SonarQube (SAST)
+  - ✅ Trivy (container scanning)
+  - ✅ Gitleaks (secret scanning)
+- Stops the build on policy violations
+
+
+#### [ **Monitoring & Alerting with Prometheus + Grafana**](https://github.com/KwesiLovesTech/kwesilovestech.com-static-website-deploy?tab=readme-ov-file)
+- Real-time monitoring for EC2 and containers  
+- Alerting rules for CPU, memory, disk usage  
+- Infrastructure deployed using Ansible
 
 
 
-### 2. [GRC Domains Mapped to AWS Native Services](https://github.com/KwesiLovesTech/Governance-Risk-Compliance.git)
 
-This repository maps core Governance, Risk, and Compliance (GRC) domains to native AWS services. It's designed to help anyone understand how to implement cloud-native GRC best practices using AWS tools.
 
+### [3. GRC Domains Mapped to AWS Native Services](https://github.com/KwesiLovesTech/Governance-Risk-Compliance.git)
+
+This repository maps core Governance, Risk, and Compliance (GRC) domains to native AWS services.
 #### Domains Covered:
 - Governance – Organizations, Control Tower, IAM Policies
 
@@ -80,7 +111,7 @@ This repository maps core Governance, Risk, and Compliance (GRC) domains to nati
 
 | Project                        | Description                                                        | Key Skills                            |
 |-------------------------------|--------------------------------------------------------------------|----------------------------------------|
-| **AWS Security Automation**   | Automated compliance with AWS Config, Lambda, and Terraform        | Cloud Security, Compliance Automation |
+| **Devops**   | This repository showcases a collection of hands-on projects where I’ve automated, optimized, and secured cloud-native environments using DevOps best practices.        | Cloud Security, Compliance Automation |
 | **Secure DevOps Pipelines**   | CI/CD pipelines with GitHub Actions, SAST, and secrets scanning    | DevSecOps, SAST, Secrets Management   |
 
 
