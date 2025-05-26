@@ -16,7 +16,7 @@ This GitHub is my **personal lab** and showcases :
 
 ## 📂 Project Categories
 
-### [1. Cloud Security Projects  (AWS)](https://github.com/KwesiLovesTech/Governance-Risk-Compliance.git)
+### [1. AWS Security Projects ](https://github.com/KwesiLovesTech/Governance-Risk-Compliance.git)
 
 #### [🔐  **Network Security**]()
 - VPC Segmentation with Security Groups and NACLs
