@@ -14,8 +14,6 @@ This GitHub is my **personal lab** and showcases :
 
 ---
 
----
-
 ## 📂 Project Categories
 
 ### [1. Cloud Security Projects by Domain (AWS)](https://github.com/KwesiLovesTech/Governance-Risk-Compliance.git)
