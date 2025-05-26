@@ -4,7 +4,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a Cloud Security and Cybersecurity professional with a strong focus on **Cloud security**, **DevSecOps**, and **Governance, Risk & Compliance (GRC)**. 
+I'm an IT professional with a strong focus on **Cloud security**, **DevSecOps**, and **Governance, Risk & Compliance (GRC)**. 
 I enjoy designing secure cloud architectures, automating compliance, and bridging the gap between **security practices** and **business risk**.
 
 This GitHub is my **personal lab** and showcases :
