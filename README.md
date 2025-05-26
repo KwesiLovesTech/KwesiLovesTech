@@ -82,10 +82,10 @@ This GitHub is my **personal lab** and showcases :
 
 
 
-### [3. GRC Domains Mapped to AWS Native Services](https://github.com/KwesiLovesTech/Governance-Risk-Compliance.git)
+### [3. GRC ](https://github.com/KwesiLovesTech/Governance-Risk-Compliance.git)
 
 This repository maps core Governance, Risk, and Compliance (GRC) domains to native AWS services.
-#### Domains Covered:
+#### [GRC Domains Mapped to AWS Native Services]():
 - Governance – Organizations, Control Tower, IAM Policies
 
 - Risk Management – GuardDuty, Inspector, Security Hub
