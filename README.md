@@ -44,7 +44,7 @@ This GitHub is my **personal lab** and showcases :
 - Cross-Account Role Access with STS
 
 
-### [2. Devops  &  DevSecOps]()
+### 2. Devops  &  DevSecOps
 
 #### [🔧  **CI/CD Pipeline with Jenkins & Ansible**](https://github.com/KwesiLovesTech/jenkins-cicd-pipeline)
 - Fully automated Jenkins pipeline for a Java web app  
@@ -83,21 +83,6 @@ This GitHub is my **personal lab** and showcases :
 
 
 ### [3. GRC ](https://github.com/KwesiLovesTech/Governance-Risk-Compliance.git)
-
-This repository maps core Governance, Risk, and Compliance (GRC) domains to native AWS services.
-#### [GRC Domains Mapped to AWS Native Services]():
-- Governance – Organizations, Control Tower, IAM Policies
-
-- Risk Management – GuardDuty, Inspector, Security Hub
-
-- Compliance – AWS Config, Audit Manager, Macie
-
-- Policy Management – SCPs, IAM Access Analyzer, Config Rules
-
-- Audit & Controls – CloudTrail, Conformance Packs
-
-- Incident Management – Lambda, EventBridge, Detective
-
 
  I use this as a reference for audits, architecture reviews, and compliance automation
 
