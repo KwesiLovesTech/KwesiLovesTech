@@ -82,7 +82,9 @@ This GitHub is my **personal lab** and showcases :
 
 
 
-### 3. GRC 
+### 3. GRC
+
+#### [GRC Domains Mapped to AWS Native Services]()
 
  I use this as a reference for audits, architecture reviews, and compliance automation
 
