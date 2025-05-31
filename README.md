@@ -16,7 +16,7 @@ This GitHub is my **personal lab** and showcases :
 
 ## 📂 Project Categories
 
-### [1. AWS Security Projects ]()
+### 1. AWS Security Projects 
 
 #### [🔐  **Network Security**](https://github.com/KwesiLovesTech/Network-Security.git)
 - VPC Segmentation with Security Groups and NACLs
