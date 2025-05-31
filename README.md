@@ -16,9 +16,9 @@ This GitHub is my **personal lab** and showcases :
 
 ## 📂 Project Categories
 
-### [1. AWS Security Projects ](https://github.com/KwesiLovesTech/Governance-Risk-Compliance.git)
+### [1. AWS Security Projects ]()
 
-#### [🔐  **Network Security**]()
+#### [🔐  **Network Security**](https://github.com/KwesiLovesTech/Network-Security.git)
 - VPC Segmentation with Security Groups and NACLs
 - Web App Protection with AWS WAF and Shield
 - VPC Flow Logs + Athena + QuickSight
