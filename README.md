@@ -82,7 +82,7 @@ This GitHub is my **personal lab** and showcases :
 
 
 
-### 3. GRC
+### 3. GRC / Cybersecurity
 
 #### [GRC Domains Mapped to AWS Native Services](https://github.com/KwesiLovesTech/AWS-GRC.git)
 
