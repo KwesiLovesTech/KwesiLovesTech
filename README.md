@@ -82,7 +82,7 @@ This GitHub is my **personal lab** and showcases :
 
 
 
-### [3. GRC ](https://github.com/KwesiLovesTech/Governance-Risk-Compliance.git)
+### 3. GRC 
 
  I use this as a reference for audits, architecture reviews, and compliance automation
 
