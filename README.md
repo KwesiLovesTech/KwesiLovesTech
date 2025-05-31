@@ -84,7 +84,7 @@ This GitHub is my **personal lab** and showcases :
 
 ### 3. GRC
 
-#### [GRC Domains Mapped to AWS Native Services]()
+#### [GRC Domains Mapped to AWS Native Services](https://github.com/KwesiLovesTech/AWS-GRC.git)
 
  I use this as a reference for audits, architecture reviews, and compliance automation
 
