@@ -4,94 +4,27 @@
 
 ## 👨‍💻 About Me
 
-I'm an IT professional with a strong focus on **Cloud security**, **DevSecOps**, and **Governance, Risk & Compliance (GRC)**. 
-I enjoy designing secure cloud architectures, automating compliance, and bridging the gap between **security practices** and **business risk**.
+I'm an IT professional passionate about **Cloud security**, **Cybersecurity** and **Compliance Automation**.
+I enjoy projects that involve building secure architectures, automating security controls, and aligning cloud environments with industry standards.
 
 This GitHub is my **personal lab** and showcases :
 
 - Real-world **AWS security projects** organized by security domain  and 
-- A reference **GRC framework** mapped to **AWS native services**
+- **Cybersecurity reference projects** 
 
 ---
 
 ## 📂 Project Categories
 
-### 1. AWS Security Projects 
-
-#### [🔐  **Network Security**](https://github.com/KwesiLovesTech/Network-Security.git)
-- VPC Segmentation with Security Groups and NACLs
-- Web App Protection with AWS WAF and Shield
-- VPC Flow Logs + Athena + QuickSight
-
-#### [🧪  **Application Security**]()
-- Secure CI/CD Pipeline with SonarQube
-- Secrets Management with AWS Secrets Manager
-- API Gateway with Lambda JWT Authorizer
-
-#### [☁️ **Cloud Security**]()
-- AWS Secure Architecture Design with Terraform
-- Prowler Security Assessment & Remediation
-- Auto-Remediate Public S3 Buckets
-
-#### [📊  **Security Operations**]()
-- Centralized Logging with CloudTrail & OpenSearch
-- Automated Incident Response with EventBridge
-- Security Hub Alerts + Amazon Detective Workflow
-
-#### [🔑  **Identity & Access Management (IAM)**]()
-- IAM Policy Least Privilege Analyzer
-- SSO Integration with IAM Identity Center
-- Cross-Account Role Access with STS
+### 1.[ Cloud Security / DevSecOps Projects]() 
 
 
-### 2. Devops  &  DevSecOps
-
-#### [🔧  **CI/CD Pipeline with Jenkins & Ansible**](https://github.com/KwesiLovesTech/jenkins-cicd-pipeline)
-- Fully automated Jenkins pipeline for a Java web app  
-- Stages: Build → Test → Quality Gate → Artifact Push → Deploy  
-- Tools: Jenkins, Nexus, SonarQube, EC2, GitHub
-
-
-#### [🛠️  **Terraform Infrastructure with Embedded Security**]()
-- Deploy VPC, EC2, RDS with security controls baked in  
-- Enforce encryption, logging, backups via Terraform modules  
-- Tags and IAM policies integrated for audit readiness
-
-#### [📦 **CI/CD for Static Website on S3 using AWS CodePipeline**](https://github.com/KwesiLovesTech/kwesilovestech.com-static-website-deploy?tab=readme-ov-file)
-- **Frontend**: Static website hosted on Amazon S3 with CloudFront (optional)
-- **CI/CD**: AWS CodePipeline + CodeBuild + GitHub for deployment automation
-- **Visitor Counter Backend**:
-  - **API Gateway** (REST)
-  - **Lambda** (Lambda function)
-  - **DynamoDB** (stores and updates visit counts)
-
-#### [🚧 **DevSecOps Pipeline: Secure Software Supply Chain**]()
-- Jenkins pipeline with:
-  - ✅ SonarQube (SAST)
-  - ✅ Trivy (container scanning)
-  - ✅ Gitleaks (secret scanning)
-- Stops the build on policy violations
-
-
-#### [ **Monitoring & Alerting with Prometheus + Grafana**](https://github.com/KwesiLovesTech/jenkins-cicd-pipeline)
-- Real-time monitoring for EC2 and containers  
-- Alerting rules for CPU, memory, disk usage  
-- Infrastructure deployed using Ansible
-
-
-
-
-
-### 3. GRC / Cybersecurity
-
-#### [GRC Domains Mapped to AWS Native Services](https://github.com/KwesiLovesTech/AWS-GRC.git)
-
- I use this as a reference for audits, architecture reviews, and compliance automation
+### 2.[ Cybersecurity / GRC]()
 
 ---
 
 
-## 🚀 Featured Projects
+#### 🚀 Featured Projects
 
 | Project                        | Description                                                        | Key Skills                            |
 |-------------------------------|--------------------------------------------------------------------|----------------------------------------|
@@ -102,12 +35,12 @@ This GitHub is my **personal lab** and showcases :
 
 ---
 
-## 🧰 Skills & Tools
+#### 🧰 Skills & Tools
 
 - **Cloud Platforms:** AWS (Primary), Azure (Basic)  
 - **Security Tools:** Prowler, CloudSploit, Nessus, Splunk, Burp Suite  
 - **DevOps Tools:** Terraform, GitHub Actions, Jenkins, Docker, Kubernetes  
-- **Compliance Frameworks:** NIST 800-53, ISO 27001, SOC 2, GDPR  
+- **Compliance Frameworks:** NIST 800-53, ISO 27001, SOC 2, GDPR, HIPPA 
 - **Scripting:** Python (automation), Bash (scripting)  
 
 
