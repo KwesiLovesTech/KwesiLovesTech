@@ -23,7 +23,7 @@ This GitHub is my **personal lab** and showcases :
 ### [ 👮 Cybersecurity / GRC](https://github.com/KwesiLovesTech/GRC.git)
 
 
-### [ 💻 HomeLab ]()
+### [ 💻 HomeLab ](https://github.com/KwesiLovesTech/Local-Lab.git)
 
 ---
 
