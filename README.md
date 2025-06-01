@@ -28,7 +28,7 @@ This GitHub is my **personal lab** and showcases :
 
 | Project                        | Description                                                        | Key Skills                            |
 |-------------------------------|--------------------------------------------------------------------|----------------------------------------|
-| [**Multi-Tier-Web-Application-Stack Setup on HomeLab**](https://github.com/KwesiLovesTech/Vprofile-Project-Multi-Tier-Web-Application-Stack-Setup-Locally)  | Deployed a 3-tier architecture (frontend, backend, database) on a local VM or host.   | DevSecOps, CICD   |
+| [**Multi-Tier-Web-Application-Stack Setup on HomeLab**](https://github.com/KwesiLovesTech/Vprofile-Project-Multi-Tier-Web-Application-Stack-Setup-Locally)  | Deployed a 3-tier architecture (frontend, backend, database) on a local VM .   | DevSecOps, CICD   |
 | [**One-Click IaC Deployment Project on HomeLab**](https://github.com/KwesiLovesTech/KwesiLovesTech-One-Click-IaC-Deployment-VProfile.git)   | This project enables a One-Click Deployment of a complete multi-tier web application stack using Infrastructure as Code (IaC) principles. It leverages various tools and scripts to provision and configure each tier automatically, from infrastructure setup to application deployment        | Scripting ,Automation, Service Provisioning,  DevSecOps Principles, CI/CD Concepts|
 | [**WordPress Server Deployment (Local)**](https://github.com/KwesiLovesTech/WordPress-Server-using-LAMP-stack-UbuntuLinux)   | Installed and configured a WordPress server locally using LAMP stack. Focused on service optimization, permission hardening, and manual patching workflows.        | Linux Admin, Web Server Setup, DevOps|
 
