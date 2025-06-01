@@ -1,16 +1,17 @@
-###  Hi there 👋 , I'm Kwesi Ifeogwu - Cloud Security & Cybersecurity Enthusiast. 
+####  Hi there 👋 , I'm Kwesi Ifeogwu - a Cloud Security & Cybersecurity Enthusiast. 
 
 ---
 
-## 👨‍💻 About Me
+#### 👨‍💻 Professional Summary
 
 I'm an IT professional passionate about **Cloud security**, **Cybersecurity** and **Compliance Automation**.
 I enjoy projects that involve building secure architectures, automating security controls, and aligning cloud environments with industry standards.
 
 This GitHub is my **personal lab** and showcases :
 
-- Real-world **AWS security projects** organized by security domain  and 
-- **Cybersecurity reference projects** 
+- Real-world **AWS security projects** organized by security domain 
+- **Cybersecurity reference projects** and
+- **Projects on my local machine**.
 
 ---
 
