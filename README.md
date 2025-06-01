@@ -16,13 +16,13 @@ This GitHub is my **personal lab** and showcases :
 
 ## 📂 Project Categories
 
-### [ ☁️ Cloud Security / DevSecOps Projects](https://github.com/KwesiLovesTech/AWS-Security-Projects.git) 
+### [ ☁️ Cloud Security / DevSecOps](https://github.com/KwesiLovesTech/AWS-Security-Projects.git) 
 
 
 ### [ 👮 Cybersecurity / GRC]()
 
 
-### [ 💻 Local HomeLab Projects]()
+### [ 💻 Local HomeLab ]()
 
 ---
 
