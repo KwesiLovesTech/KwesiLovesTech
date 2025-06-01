@@ -20,7 +20,7 @@ This GitHub is my **personal lab** and showcases :
 ### [ ☁️ Cloud Security / DevSecOps](https://github.com/KwesiLovesTech/AWS-Security-Projects.git) 
 
 
-### [ 👮 Cybersecurity / GRC]()
+### [ 👮 Cybersecurity / GRC](https://github.com/KwesiLovesTech/GRC.git)
 
 
 ### [ 💻 HomeLab ]()
