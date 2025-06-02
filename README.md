@@ -4,13 +4,13 @@
 
 #### 👨‍💻 Professional Summary
 
-I'm an IT professional passionate about **Cloud security**, **Cybersecurity** and **Compliance Automation**.
+I'm an IT professional passionate about **Cloud security**, **Cybersecurity** and **Compliance**.
 I enjoy projects that involve building secure architectures, automating security controls, and aligning cloud environments with industry standards.
 
 This GitHub is my **personal lab** and showcases :
 
 - Real-world **AWS security projects** organized by security domain 
-- **Cybersecurity reference projects** and
+- **Cybersecurity projects** and
 - **Projects on my local machine**.
 
 ---
