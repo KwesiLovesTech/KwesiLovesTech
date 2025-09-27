@@ -3,13 +3,24 @@
 ---
 
 #### 👨‍💻 Professional Summary
+I’m an IT professional with a strong background in **Cloud Security**, **Governance-Risk-Compliance (GRC)**, and **IT Audit**.  
 
-I’m an IT professional with a strong passion for **Cybersecurity**, specifically in **Governance, Risk, and Compliance (GRC)** and **Cloud Security**. I enjoy working on projects that involve designing secure architectures, automating security controls, and aligning cloud environments with industry frameworks like NIST, ISO 27001, and SOC 2.
-This GitHub is my **personal lab** and showcases :
+I enjoy working on projects that involve:  
+- Designing and implementing **secure cloud architectures**  
+- Automating **security and compliance controls** using modern DevSecOps practices  
+- Mapping and aligning environments with frameworks such as **NIST 800-53, ISO 27001, and SOC 2**  
 
-- Real-world **AWS security projects** organized by security domain 
-- **Cybersecurity projects** and
-- **Projects on my local machine**.
+---
+
+#### About This GitHub  
+This GitHub is my **personal lab and portfolio**, where I showcase hands-on projects that highlight my skills in:  
+- **Cloud Security Engineering** – securing AWS services, IAM hardening, network segmentation  
+- **DevSecOps** – integrating security into CI/CD pipelines, Infrastructure as Code (Terraform) with embedded security  
+- **GRC & Compliance Automation** – control mapping, automated audits, risk dashboards  
+- **IT Audit Support** – ITGC testing, compliance reporting, vendor risk management  
+
+
+The goal of these projects is to demonstrate how I combine **technical security expertise** with **governance and compliance knowledge** to deliver secure, audit-ready cloud solutions.  
 
 ---
 
