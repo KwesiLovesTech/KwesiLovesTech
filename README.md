@@ -1,4 +1,4 @@
-####  Hi there 👋 , I'm Kwesi Ifeogwu - a Cybersecurity & Cloud Security Enthusiast. 
+####  Hi there 👋 , I'm Kwesi Ifeogwu - a Cyber & Cloud Security Enthusiast. 
 
 ---
 
