@@ -24,15 +24,15 @@ The goal of these projects is to demonstrate how I combine **technical security 
 
 ---
 
-## 📂 Project Categories
+### 📂 Project Categories
 
-### [ ☁️ Cloud Security / DevSecOps](https://github.com/KwesiLovesTech/AWS-Security-Projects.git) 
-
-
-### [ 👮 Cybersecurity / GRC](https://github.com/KwesiLovesTech/GRC.git)
+#### [ ☁️ Cloud Security / DevSecOps](https://github.com/KwesiLovesTech/AWS-Security-Projects.git) 
 
 
-### [ 💻 HomeLab ](https://github.com/KwesiLovesTech/Local-Lab.git)
+#### [ 👮 Cybersecurity / GRC](https://github.com/KwesiLovesTech/GRC.git)
+
+
+#### [ 💻 HomeLab ](https://github.com/KwesiLovesTech/Local-Lab.git)
 
 ---
 
