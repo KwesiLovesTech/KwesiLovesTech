@@ -1,38 +1,51 @@
-####  Hi there 👋 , I'm Kwesi Ifeogwu - a Cyber & Cloud Security Enthusiast. 
+#### Hi there 👋, I'm Kwesi Ifeogwu
+###### Cybersecurity | Cloud Security | IT Audit | GRC | AI-Assisted Audit
+
+---
+##### 👨‍💻 Professional Summary
+
+I’m an IT professional with experience across Cloud Security, Governance, Risk & Compliance (GRC), and IT Audit.
+
+My work and projects focus on:
+
+- Cloud security and secure AWS architectures
+- IT General Controls (ITGC) and compliance
+- Security and compliance automation
+- DevSecOps and Infrastructure as Code
+- Risk and control assessment
+- AI-assisted audit and security workflows
+
+I enjoy combining technical security knowledge with governance, risk, and audit principles to build secure and audit-ready environments.
 
 ---
 
-#### 👨‍💻 Professional Summary
-I’m an IT professional with a strong background in **Cloud Security**, **Governance-Risk-Compliance (GRC)**, and **IT Audit**.  
+#### 🚀 Featured Project — IT Audit Copilot
 
-I enjoy working on projects that involve:  
-- Designing and implementing **secure cloud architectures**  
-- Automating **security and compliance controls** using modern DevSecOps practices  
-- Mapping and aligning environments with frameworks such as **NIST 800-53, ISO 27001, and SOC 2**  
+#### AI-Assisted IT Audit & Interview Preparation Platform
 
----
+**IT Audit Copilot** is an AI-assisted platform designed to help IT Audit, GRC, and Technology Risk professionals prepare for interviews, organize audit knowledge, and transform audit transcripts into structured insights and interview stories.
 
-#### About This GitHub  
-This GitHub is my **personal lab and portfolio**, where I showcase hands-on projects that highlight my skills in:  
-- **Cloud Security Engineering** – securing AWS services, IAM hardening, network segmentation  
-- **DevSecOps** – integrating security into CI/CD pipelines, Infrastructure as Code (Terraform) with embedded security  
-- **GRC & Compliance Automation** – control mapping, automated audits, risk dashboards  
-- **IT Audit Support** – ITGC testing, compliance reporting, vendor risk management  
+* 🎤 AI-powered IT Audit Interview Coach
+* 📝 Audit transcript processing
+* 📚 IT Audit & GRC knowledge base
+* 🛡️ Experience credibility validation
+* 🔐 Privacy-by-default local architecture
+* 🤖 Powered by Claude Agent SDK
 
+**[View IT Audit Copilot Project →](REPOSITORY-LINK-COMING-SOON)**
 
-The goal of these projects is to demonstrate how I combine **technical security expertise** with **governance and compliance knowledge** to deliver secure, audit-ready cloud solutions.  
 
 ---
 
 ### 📂 Project Categories
 
-#### [ ☁️ Cloud Security / DevSecOps](https://github.com/KwesiLovesTech/AWS-Security-Projects.git) 
+#### [Cloud Security / DevSecOps](https://github.com/KwesiLovesTech/AWS-Security-Projects.git) 
 
 
-#### [ 👮 Cybersecurity / GRC](https://github.com/KwesiLovesTech/GRC.git)
+#### [Cybersecurity / GRC](https://github.com/KwesiLovesTech/GRC.git)
 
 
-#### [ 💻 HomeLab ](https://github.com/KwesiLovesTech/Local-Lab.git)
+#### [HomeLab ](https://github.com/KwesiLovesTech/Local-Lab.git)
 
 ---
 
@@ -51,9 +64,11 @@ The goal of these projects is to demonstrate how I combine **technical security 
 #### 🧰 Skills & Tools
 
 - **Cloud Platforms:** AWS (Primary), Azure (Basic)  
-- **Security Tools:** Prowler, CloudSploit, Nessus, Splunk, Burp Suite  
+- **Security Tools:** Prowler, CloudSploit, Nessus, Splunk, Burp Suite
+- **IT Audit:** ITGC, ITACs, Access Management, Change Management, IT Operations, SOX
+- **GRC & Compliance:** NIST 800-53, ISO 27001, SOC 2, GDPR, HIPAA 
 - **DevOps Tools:** Terraform, GitHub Actions, Jenkins, Docker, Kubernetes  
-- **Compliance Frameworks:** NIST 800-53, ISO 27001, SOC 2, GDPR, HIPPA 
+- **AI-Assisted Workflows:** Claude Code, Claude Agent SDK, Agentic AI workflows 
 - **Scripting:** Python (automation), Bash (scripting)  
 
 
@@ -66,7 +81,7 @@ The goal of these projects is to demonstrate how I combine **technical security 
 
 ## 🤝 Let’s Connect
 
-If you’re interested in collaborating, hiring, or chatting about cybersecurity strategy, feel free to reach out:
+If you're interested in cybersecurity, cloud security, IT audit, GRC, AI-assisted audit, collaboration, or professional opportunities:
 
 - [LinkedIn](https://www.linkedin.com/in/kwesi-loves-tech/)  
 
