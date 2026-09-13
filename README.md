@@ -19,20 +19,26 @@ I enjoy combining technical security knowledge with governance, risk, and audit 
 
 ---
 
-#### 🚀 Featured Project — IT Audit Copilot
+## Featured Project — IT Audit Copilot
 
-#### AI-Assisted IT Audit & Interview Preparation Platform
+### 🤖 Featured Project — IT Audit Copilot
 
-**IT Audit Copilot** is an AI-assisted platform designed to help IT Audit, GRC, and Technology Risk professionals prepare for interviews, organize audit knowledge, and transform audit transcripts into structured insights and interview stories.
+**IT Audit Copilot** is an agentic AI platform built to help IT Audit, GRC, and Technology Risk professionals prepare for roles, practice interviews, organize audit knowledge, and turn real experience into credible, structured career insights.
 
-* 🎤 AI-powered IT Audit Interview Coach
-* 📝 Audit transcript processing
-* 📚 IT Audit & GRC knowledge base
-* 🛡️ Experience credibility validation
-* 🔐 Privacy-by-default local architecture
-* 🤖 Powered by Claude Agent SDK
+**Key Features**
 
-**[View IT Audit Copilot Project →](REPOSITORY-LINK-COMING-SOON)**
+- Role-Specific AI Interview Coach
+- Job Description & Role Match Analysis
+- AI-Powered Company Research
+- Audit Transcript Intelligence
+- IT Audit & GRC Knowledge Base
+- Experience Credibility Controls
+- Privacy-First Local Architecture
+- Built with Claude Agent SDK, Next.js & TypeScript
+
+**Status:** Private Beta
+
+[**View IT Audit Copilot Project →**](REPOSITORY-LINK-COMING-SOON)
 
 
 ---
@@ -45,19 +51,20 @@ I enjoy combining technical security knowledge with governance, risk, and audit 
 #### [Cybersecurity / GRC](https://github.com/KwesiLovesTech/GRC.git)
 
 
-#### [HomeLab ](https://github.com/KwesiLovesTech/Local-Lab.git)
+#### [HomeLab / AI projects ](https://github.com/KwesiLovesTech/Local-Lab.git)
 
 ---
 
 
 #### 🚀 Featured Local HomeLab Projects
 
-| Project                        | Description                                                        | Key Skills                            |
-|-------------------------------|--------------------------------------------------------------------|----------------------------------------|
-| [**Multi-Tier-Web-Application-Stack Setup on HomeLab**](https://github.com/KwesiLovesTech/Vprofile-Project-Multi-Tier-Web-Application-Stack-Setup-Locally)  | Deployed a 3-tier architecture (frontend, backend, database) on a local VM .   | DevSecOps, CICD   |
-| [**One-Click IaC Deployment Project on HomeLab**](https://github.com/KwesiLovesTech/KwesiLovesTech-One-Click-IaC-Deployment-VProfile.git)   | One-Click Deployment of a complete multi-tier web application stack using Infrastructure as Code (IaC) principles.     | Scripting ,Automation, Service Provisioning,  DevSecOps Principles, CI/CD Concepts|
-| [**WordPress Server Deployment (Local)**](https://github.com/KwesiLovesTech/WordPress-Server-using-LAMP-stack-UbuntuLinux)   | Installed and configured a WordPress server locally using LAMP stack.         | Linux Admin, Web Server Setup, DevOps|
-
+| Project | Description | Tools |
+|---|---|---|
+| **IT Audit Copilot** *(Private Beta)* | Agentic AI copilot for IT audit learning, career preparation, and audit intelligence with privacy and evidence-credibility controls. | Claude Agent SDK, Next.js, TypeScript, Agentic AI |
+| [**AI Projects**](https://github.com/KwesiLovesTech/AI-Security-Journey) | AI security experiments, including deploying HexStrike AI on Kali Linux. | Claude, HexStrike AI, Kali Linux |
+| [**Three-Tier Web App**](https://github.com/KwesiLovesTech/Vprofile-Project-Multi-Tier-Web-Application-Stack-Setup-Locally) | Built a local NGINX, Tomcat, and MySQL multi-tier application stack. | Vagrant, VirtualBox, Ansible |
+| [**One-Click IaC Deployment**](https://github.com/KwesiLovesTech/KwesiLovesTech-One-Click-IaC-Deployment-VProfile.git) | Automated deployment of a multi-tier application using IaC principles. | Bash, IaC, DevSecOps |
+| [**WordPress Server**](https://github.com/KwesiLovesTech/WordPress-Server-using-LAMP-stack-UbuntuLinux) | Deployed and hardened WordPress on Ubuntu using a LAMP stack. | Linux, Apache, MySQL, PHP |
 
 ---
 
