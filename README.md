@@ -38,7 +38,7 @@ I enjoy combining technical security knowledge with governance, risk, and audit 
 
 **Status:** Private Beta
 
-[**View IT Audit Copilot Project →**](REPOSITORY-LINK-COMING-SOON)
+[**View IT Audit Copilot Project →**](https://github.com/KwesiLovesTech/IT-Audit-Copilot.git)
 
 
 ---
@@ -60,7 +60,7 @@ I enjoy combining technical security knowledge with governance, risk, and audit 
 
 | Project | Description | Tools |
 |---|---|---|
-| **IT Audit Copilot** *(Private Beta)* | Agentic AI copilot for IT audit learning, career preparation, and audit intelligence with privacy and evidence-credibility controls. | Claude Agent SDK, Next.js, TypeScript, Agentic AI |
+| [**IT Audit Copilot**](https://github.com/KwesiLovesTech/IT-Audit-Copilot.git) *(Private Beta)* | Agentic AI copilot for IT audit learning, career preparation, and audit intelligence with privacy and evidence-credibility controls. | Claude Agent SDK, Next.js, TypeScript, Agentic AI |
 | [**AI Projects**](https://github.com/KwesiLovesTech/AI-Security-Journey) | AI security experiments, including deploying HexStrike AI on Kali Linux. | Claude, HexStrike AI, Kali Linux |
 | [**Three-Tier Web App**](https://github.com/KwesiLovesTech/Vprofile-Project-Multi-Tier-Web-Application-Stack-Setup-Locally) | Built a local NGINX, Tomcat, and MySQL multi-tier application stack. | Vagrant, VirtualBox, Ansible |
 | [**One-Click IaC Deployment**](https://github.com/KwesiLovesTech/KwesiLovesTech-One-Click-IaC-Deployment-VProfile.git) | Automated deployment of a multi-tier application using IaC principles. | Bash, IaC, DevSecOps |
