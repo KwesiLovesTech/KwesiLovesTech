@@ -19,8 +19,6 @@ I enjoy combining technical security knowledge with governance, risk, and audit 
 
 ---
 
-## Featured Project — IT Audit Copilot
-
 ### 🤖 Featured Project — IT Audit Copilot
 
 **IT Audit Copilot** is an agentic AI platform built to help IT Audit, GRC, and Technology Risk professionals prepare for roles, practice interviews, organize audit knowledge, and turn real experience into credible, structured career insights.
